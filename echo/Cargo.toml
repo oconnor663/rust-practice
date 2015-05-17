@@ -5,3 +5,4 @@ authors = ["Your Name <you@example.com>"]
 
 [dependencies]
 docopt = "*"
+rustc-serialize = "*"
